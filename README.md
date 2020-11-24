@@ -1,2 +1,2 @@
 # Banco_de_Tiempo
-Proyecto de curso de programación
+Proyecto del curso de programación
